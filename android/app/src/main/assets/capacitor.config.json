@@ -1,0 +1,6 @@
+{
+  "appId": "com.angular-crash-course.ionic-angular",
+  "appName": "angular-crash-course",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

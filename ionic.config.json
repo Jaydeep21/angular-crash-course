@@ -1,5 +1,7 @@
 {
   "name": "angular-crash-course",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
